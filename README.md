@@ -8,6 +8,8 @@ the recompiled sources against a shared `tracelib` library.
 ![Image Of TraceTool GUI]
 (http://blog.froglogic.com/wp-content/uploads/Screen-Shot-2016-09-15-at-13.39.37.png)
 
+[![CircleCI Status](https://circleci.com/gh/frerich/tracetool/tree/circleci.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/frerich/tracetool)
+
 License
 -------
 tracetool is free software: you can redistribute it and/or modify it under the
