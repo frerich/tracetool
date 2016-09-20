@@ -5,6 +5,8 @@ inspecting its state. This is achieved by instrumenting the source code of the
 target program and linking the recompiled sources against a shared `tracelib`
 library.
 
+[![CircleCI Status](https://circleci.com/gh/frerich/tracetool/tree/circleci.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/frerich/tracetool)
+
 License
 -------
 tracetool is free software: you can redistribute it and/or modify it under the
